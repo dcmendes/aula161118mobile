@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="notepad">Bloco de Notas</string>
+    <string name="salvebutton">Salvar</string>
+    <string name="malloc">Malloc Corp</string>
+    <string name="nota_vazia">\"escreve alguma coisa\"</string>
+    <string name="valor_default">nada</string>
+</resources>
